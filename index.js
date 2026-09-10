@@ -5,7 +5,7 @@ const bot = mineflayer.createBot({
   port: 29801,             // بورت السيرفر
   auth: 'offline',         // نوع الدخول (كراتش / أوفلاين)
   version: '1.20.4',       // إصدار سيرفرك
-  username: 'iam3mkbro'    // اسم البوت المخصص
+  username: 'AFK_Vortex'    // اسم البوت المخصص
 });
 
 bot.on('spawn', () => {
